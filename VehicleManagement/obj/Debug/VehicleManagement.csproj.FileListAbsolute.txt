@@ -1,0 +1,12 @@
+E:\Ysn\VehicleManagement\VehicleManagement\bin\VehicleManagement.dll.config
+E:\Ysn\VehicleManagement\VehicleManagement\bin\VehicleManagement.dll
+E:\Ysn\VehicleManagement\VehicleManagement\bin\VehicleManagement.pdb
+E:\Ysn\VehicleManagement\VehicleManagement\obj\Debug\VehicleManagement.csprojResolveAssemblyReference.cache
+E:\Ysn\VehicleManagement\VehicleManagement\obj\Debug\VehicleManagement.dll
+E:\Ysn\VehicleManagement\VehicleManagement\obj\Debug\VehicleManagement.pdb
+I:\Practices\Goup Project\Ysn\VehicleManagement\VehicleManagement\bin\VehicleManagement.dll.config
+I:\Practices\Goup Project\Ysn\VehicleManagement\VehicleManagement\bin\VehicleManagement.dll
+I:\Practices\Goup Project\Ysn\VehicleManagement\VehicleManagement\bin\VehicleManagement.pdb
+I:\Practices\Goup Project\Ysn\VehicleManagement\VehicleManagement\obj\Debug\VehicleManagement.csprojResolveAssemblyReference.cache
+I:\Practices\Goup Project\Ysn\VehicleManagement\VehicleManagement\obj\Debug\VehicleManagement.dll
+I:\Practices\Goup Project\Ysn\VehicleManagement\VehicleManagement\obj\Debug\VehicleManagement.pdb
